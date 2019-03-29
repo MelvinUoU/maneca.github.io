@@ -4,3 +4,7 @@
   
 >Caso eu vá programar uma imagem, o "src=url(...)" posso colocar url(./ ...) ou preciso colocar url(https://...)?
   -Não faz diferença a não ser que precise pegar da internet aí precisa de um "full path"
+
+>"git add ." adiciona os documentos locais
+>"git commit -m " é apenas o modo o qual a alteração vai ser organizada
+>"git push origin master" envia as alterações
