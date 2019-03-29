@@ -1,0 +1,6 @@
+>Necessita do GitBash e SublimeText para programar no GitHub?
+  -Necessita apenas do Git para enviar pro GitHub
+  -Visual Studio Code ou Sublime ou Bloco de Notas ou Brackets
+  
+>Caso eu vá programar uma imagem, o "src=url(...)" posso colocar url(./ ...) ou preciso colocar url(https://...)?
+  -Não faz diferença a não ser que precise pegar da internet aí precisa de um "full path"
