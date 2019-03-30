@@ -8,3 +8,5 @@
 >"git add ." adiciona os documentos locais
 >"git commit -m " é apenas o modo o qual a alteração vai ser organizada
 >"git push origin master" envia as alterações
+
+>Por que tenho q colocar meu email e meu nome de usuário no GitBash?
