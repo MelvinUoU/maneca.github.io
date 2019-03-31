@@ -43,5 +43,6 @@ body{
 }
 
 p,h1,h2,ul{
- color: rgb(187, 193, 10)
+ font-family: serif;
+ color: rgb(187, 193, 10);
 }
